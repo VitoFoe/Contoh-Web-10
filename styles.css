@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-size: 25px;
+}
+div {
+    border: 1px solid black;
+    height: 120px;
+    width: 120px;
+    background-color: cornflowerblue;
+    margin: 0px auto;
+    margin-bottom: 20px;
+}
+div.red {
+    background-color: tomato;
+}
+div.green {
+    background-color: forestgreen;
+}
+div.yellow {
+    background-color: gold;
+}
+h1 {
+    font-family: Rubik;
+    text-align: center;
+    line-height: 100px;
+    color: white;
+}
+.circle {
+    border-radius: 50%;
+}
